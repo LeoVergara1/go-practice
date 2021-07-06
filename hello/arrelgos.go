@@ -10,4 +10,5 @@ func main() {
 	for i := 0; i < len(arreglo); i++ {
 		arreglo[i] = i
 	}
+	println("Final del progama")
 }
